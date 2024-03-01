@@ -1,7 +1,7 @@
 # Diabetes Predictor
 
 ## My first ML training project written in Python using Google Colab showing predictions of diabetes
-dataset from [https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset]
+[dateset credit](https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset)
 
 ## Project overview
 
