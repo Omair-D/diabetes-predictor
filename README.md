@@ -28,3 +28,10 @@ The dataset is split into two parts: a training set and a testing set. Each set 
 * scikit-learn
 * matplotlib
 * seaborn
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+* Omair Durrani - durraniomair2025@gmail.com
+* Project link: [Repository](https://github.com/Omair-D/diabetes-predictor)
